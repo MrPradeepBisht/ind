@@ -1,5 +1,6 @@
 <?php
 /*
+Testing Purpose
 Plugin Name: WooCommerce Barcode & ISBN
 Plugin URI: https://www.weareag.co.uk/add-barcode-meta-box-woocommerce/
 Description: A plugin to add a barcode & ISBN to WooCommerce
